@@ -65,7 +65,7 @@ Sua maior vantagem está na busca por prefixo: ao digitar `"ca"`, a Trie retorna
 
 ---
 
-##  Utilizadas
+## Tecnologias Utilizadas
 
 | Camada | Tecnologia | Função |
 |---|---|---|
