@@ -1,4 +1,4 @@
-TrieDS — Sistema de Autocomplete com Árvore Trie
+#TrieDS — Sistema de Autocomplete com Árvore Trie
 
 Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados** do curso de **Tecnologia em Sistemas para Internet (TSI)**.
 
